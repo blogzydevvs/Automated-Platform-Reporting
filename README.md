@@ -19,15 +19,15 @@
 
 ## 📱 Get Started
 
-⚙️ **Quick Setup:**
+### Quick Setup:
 
-**1️⃣ Open the Bot**
-   • Click: [@RektNow_Bot](https://t.me/RektNow_Bot)
-   • Or search: `@RektNow_Bot` on Telegram
+**Step 1: Open the Bot**
+- Click: [@RektNow_Bot](https://t.me/RektNow_Bot)
+- Or search `@RektNow_Bot` on Telegram
 
-**2️⃣ Launch**
-   • Tap "🚀 Launch APP" button
-   • Access the web application directly
+**Step 2: Launch the App**
+- Tap "🚀 Launch APP" button
+- Your web application will open
 
 ✅ **That's it!**
 
