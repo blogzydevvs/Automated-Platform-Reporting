@@ -13,7 +13,6 @@
 ## ⚡️ Features
 
 - 🤖 **Telegram Bot** - Easy-to-use interface within Telegram
-- 📱 **Web App Integration** - Seamless web application
 - 🌐 **24/7 Available** - Access anytime, anywhere
 - ⚡ **Automated System** - Efficient workflow automation
 
@@ -22,12 +21,12 @@
 ### Quick Setup:
 
 **Step 1: Open the Bot**
-- Click: [@RektNow_Bot](https://t.me/RektNow_Bot)
-- Or search `@RektNow_Bot` on Telegram
+- Click: [@RektNowBot](https://t.me/RektNowBot)
+- Or search `@RektNowBot` on Telegram
 
 **Step 2: Launch the App**
-- Tap "🚀 Launch APP" button
-- Your web application will open
+- Tap "🚀 Start" button
+- Our bot will open
 
 ✅ **That's it!**
 
