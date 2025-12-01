@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RektNowBot)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bestrepbot)
 
 </div>
 
@@ -21,7 +21,7 @@
 ### Quick Setup:
 
 **Step 1: Open the Bot**
-- Click: [@RektNowBot](https://t.me/RektNowBot)
+- Click: [@RektNowBot](https://t.me/bestrepbot)
 - Or search `@RektNowBot` on Telegram
 
 **Step 2: Launch the App**
@@ -36,7 +36,7 @@
 
 **Join our community**
 
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/rektnowlinks)
+[![Channel](https://img.shields.io/badge/Channel-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/bestrepbot)
 [![Support](https://img.shields.io/badge/Support-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/RektNowSupport)
 
 ⚡️ **RektNow**
