@@ -21,8 +21,8 @@
 ### Quick Setup:
 
 **Step 1: Open the Bot**
-- Click: [@RektNowBot](https://t.me/bestrepbot)
-- Or search `@RektNowBot` on Telegram
+- Click: [@bestrepbot](https://t.me/bestrepbot)
+- Or search `@bestrepbot` on Telegram
 
 **Step 2: Launch the App**
 - Tap "🚀 Start" button
@@ -37,7 +37,7 @@
 **Join our community**
 
 [![Channel](https://img.shields.io/badge/Channel-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/bestrepbot)
-[![Support](https://img.shields.io/badge/Support-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/RektNowSupport)
+[![Support](https://img.shields.io/badge/Support-Telegram-blue?style=flat-square&logo=telegram)](https://t.me/bestrepbot)
 
 ⚡️ **RektNow**
 
